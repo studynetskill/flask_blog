@@ -1,0 +1,2 @@
+用flask框架搭建的blog
+使用mlsql和pymysql作为数据库
